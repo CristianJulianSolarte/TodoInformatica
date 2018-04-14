@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "altura": 10,
+        "propietario": "Cristian S",
+        "cedula": 12313213,
+        "Precio": "UN griton de rupias",
+        "Numero mascotas": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.1547429561615,
+              4.619036418017971
+            ],
+            [
+              -74.1547080874443,
+              4.618801150183448
+            ],
+            [
+              -74.15443986654282,
+              4.618851946654333
+            ],
+            [
+              -74.15448546409607,
+              4.619081867477012
+            ],
+            [
+              -74.1547429561615,
+              4.619036418017971
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
